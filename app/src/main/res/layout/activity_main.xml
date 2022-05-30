@@ -20,4 +20,11 @@
         android:layout_height="match_parent"
         android:text="Soy gay y Jordy Chavez"/>
 
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:text="soy upeniano"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="88dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
